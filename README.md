@@ -6,7 +6,7 @@
 
 O projeto foi realizado utilizando o framework [Next.js](https://nextjs.org) integrando com a [API](https://github.com/Kayke-Fujinaka/GCQuiz-API) que ajudou na autenticação, cadastro, login e integração dos dados.
 
-Ele foi desenvolvido em Pair Programming com a minah equipe do Academy no Grupo GCB.
+Ele foi desenvolvido em Pair Programming com a minha equipe do Academy no Grupo GCB.
 
 🎲 **Como Funciona o Projeto**
 
