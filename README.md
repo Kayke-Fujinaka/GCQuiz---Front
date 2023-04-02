@@ -1,32 +1,27 @@
 <h1 align="center">❓ GCQuiz</h1>
 
-> 🔎 O projeto é um Quiz app com a opção de jogar 3 quizzes. 
+> 🔎 GCQuiz is a Quiz app with three different game options.
 
-## :page_facing_up: Explicação
+## :page_facing_up: Explanation
 
-O projeto foi realizado utilizando o framework [Next.js](https://nextjs.org) integrando com a [API](https://github.com/Kayke-Fujinaka/GCQuiz-API) que ajudou na autenticação, cadastro, login e integração dos dados.
+The project was carried out using the framework [Next.js](https://nextjs.org) integrating with the [API](https://github.com/Kayke-Fujinaka/GCQuiz-API), which helped with authentication, registration, login and data integration. It was created in partnership with my Academy team at the GCB Group.
 
-Ele foi desenvolvido em Pair Programming com a minha equipe do Academy no Grupo GCB.
+🎲 **How ​​the Project Works**
 
-🎲 **Como Funciona o Projeto**
+The user must register and log in to the application to access the games. The application features three quizzes separated by themes: Finance, Technology and Curiosities. Each game has 10 questions. At the end of a quiz, the user's profile is updated with information on correct answers, errors and questions answered in total, in real time.
 
-O usuário deve registrar uma conta e acessar ela quando entrar na aplicação.
+## :closed_book: How to use it?
 
-O projeto é de um Quiz App, a qual o usuário consegue jogar 3 quizzes separados por temas, sendo: Finanças, Tecnologia e Curiosidade.
-
-Ele tem 10 perguntas para cada quiz. Ao finalizar um jogo, o seu perfil irá ser atualizado com as novas informações que pegarão em tempo real o total de acertos, erros e questões respondidas no total.
-## :closed_book: Como usar?
-
-Antes de iniciar, você precisa ter [Git](https://git-scm.com) e [Node](https://nodejs.org/en/) instalados.
+Before starting, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
 ```bash
 # Clone this project
-$ git clone https://github.com/Kayke-Fujinaka/Call-System
+$ git clone https://github.com/Kayke-Fujinaka/GCQuiz-Front
 
-# Access
-$ cd call-system
+# access
+$ cd GCQuiz-Front
 
-# Install dependencies
+# install dependencies
 $ yarn or npm
 
 # Run the project
@@ -35,27 +30,27 @@ $ yarn start or npm start
 # The server will initialize in the <http://localhost:3000>
 ```
 
-## 🤝 Colaboradores
+## 🤝 Collaborators
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+Thanks to the following people who contributed to this project:
 
 <table>
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="160px;" alt="Foto do Kayke Fujinaka no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="160px;" alt="Photo by Kayke Fujinaka on GitHub"/><br>
         <sub>
           <b>Kayke Fujinaka</b>
         </sub>
       </a>
-    </td>
+    </all>
   </tr>
 </table>
 
-## 📝 Licença
+## 📝 License
 
-Este projeto está sob licença. Consulte o arquivo [LICENSE](LICENSE.md) para obter mais detalhes.
+This project is under license. See the [LICENSE](LICENSE.md) file for more details.
 
 &#xa0;
 
-<a href="#top">Volte para o topo</a>
+<a href="#top">Go back to top</a>
